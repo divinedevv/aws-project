@@ -32,7 +32,7 @@ A solução foi desenhada para ser simples, eficaz e alinhada com os serviços f
 
 O site está disponível publicamente no seguinte endereço:
 
-**[3.17.71.25]**
+**[ 3.144.138.48]**
 
 *(Nota: Por ser um ambiente de estudos, a instância pode não estar sempre online para otimização de custos. )*
 
